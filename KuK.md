@@ -10,5 +10,9 @@ cta:
   enabled: false
   url: ''
   button_text: ''
+menu:
+  main:
+    weight: 3
+    title: ''
 
 ---
