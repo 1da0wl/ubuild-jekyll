@@ -13,6 +13,6 @@ cta:
 menu:
   main:
     weight: 3
-    title: ''
+    title: Das Kinderhaus
 
 ---
