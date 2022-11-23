@@ -32,11 +32,12 @@ page_sections:
       no sea takimata sanctus est Lorem ipsum dolor sit amet.
 - template: full-width-media-element
   block: media-1
-  slug: ''
-  image: ''
+  slug: Das Kinderhaus
+  image: "/uploads/2022/11/23/kuk-10.jpg"
   caption: ''
 - template: simple-footer
   block: footer-1
-  content: ''
+  content: Nürnberg KuK e.V.<br>Hohenbuckstraße 11<br>90425 Nürnberg<br>Tel 0911-39575440<br><a
+    href="mailto:info@kuk-nuernberg.de">info@kuk-nuernberg.de</a>
 
 ---
